@@ -8,7 +8,7 @@
 
 Hi! I'm your **instructor**  and i will guide you on how to use this keyboard and tips and tricks.
 
-If you came from youtube, you can just downlad using [https://dl.sayobot.cn/setting_v3.zip](https://dl.sayobot.cn/setting_v3.zip)
+If you came from youtube, you can just download using [https://dl.sayobot.cn/setting_v3.zip](https://dl.sayobot.cn/setting_v3.zip)
 
 Please note, the software in this repo is downloaded from sayo bot [website](https://osu.sayobot.cn/download/) and has not been modified in anyway. 
 
