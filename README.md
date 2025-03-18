@@ -23,8 +23,12 @@ A[Code] --> B[Download Zip] --> F[Download Folder]
 A --> C[clone] --> terminal --> D[https://github.com/macrozzz/Sayo-Device-Macro-keyboard.git]
 
 ```
+## This is my affiliate link if you interested to buy this keyboard
+
+Link:  [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
 
 # Youtube videos
+Channel name: [**Macro Keyboardz**](https://www.youtube.com/@MacroKeyboardz)
 
 I have made a bunch of youtube videos for you to visually understand the keyboard
 Link:  [Youtube playlist](https://www.youtube.com/watch?v=Y-PFuFkAugc&list=PLYkiFc5F_qra9-jqyWB3uHS_9kTsK_j8U&pp=iAQB)
@@ -40,20 +44,17 @@ Link:  [Youtube playlist](https://www.youtube.com/watch?v=Y-PFuFkAugc&list=PLYki
 7. [**Colors**](https://youtu.be/sIADiOakyhs)
 8. [**Multimedia and mouse**](https://youtu.be/lzwMZGozSa0)
 
-## This is my affiliate link if you interested to buy this keyboard
 
-Link:  [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
 
-## Channel name: [**Macro Keyboardz**](https://www.youtube.com/@MacroKeyboardz)
 
 ## Star this repository
 
-If you want premade templates that you can just inport, don't forget to give it a star ⭐️. for me to know you guys want it
+If you want premade templates that you can just import, don't forget to give it a star ⭐️. for me to know you guys want it
 
 > ✨✨✨✨✨
 
 
-## Keys assigning is not the same in windows and mac. For eg.
+## Keys assigning are not the same in windows and mac. For eg.
 
 
 
