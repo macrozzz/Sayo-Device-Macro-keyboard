@@ -3,6 +3,7 @@
 
 # Welcome to Sayo Device Macro Keyboard Guide!
 
+<img align="center" src = "sayo.png">
 
 
 
