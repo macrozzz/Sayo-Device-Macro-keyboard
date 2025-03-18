@@ -19,7 +19,7 @@ Please note, the software in this repo is downloaded from sayo bot [website](htt
 ```mermaid
 graph LR
 A[Code] --> B[Download Zip] --> F[Download Folder]
-A --> C[clone] --> terminal --> D[gh repo clone prgrmr-yn/macro-keyboards]
+A --> C[clone] --> terminal --> D[https://github.com/macrozzz/Sayo-Device-Macro-keyboard.git]
 
 ```
 
