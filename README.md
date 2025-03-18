@@ -1,12 +1,14 @@
 
 <img align="right" src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fprgrmr-yn%2Fmacro-keyboards&countColor=%23dce775">
 
-# Welcome to Sayo DeviceMacro Keyboard Guide!
+# Welcome to Sayo Device Macro Keyboard Guide!
+
 
 
 
 Hi! I'm your **instructor**  and i will guide you on how to use this keyboard and tips and tricks
-Please note, the software in this repo is downloaded from sayo bot [website](https://osu.sayobot.cn/download/)
+Please note, the software in this repo is downloaded from sayo bot [website](https://osu.sayobot.cn/download/) and has not been modified in anyway. 
+Its also available to downlad using [https://dl.sayobot.cn/setting_v3.zip](https://dl.sayobot.cn/setting_v3.zip)
 
 ## Download or clone
 
@@ -41,7 +43,7 @@ Link:  [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
 
 I will soon be programming some templates and share the file so you can preinstall it
 
-## Keys assigning is not the same in windows and mac
+## Keys assigning is not the same in windows and mac. For eg.
 
 
 
