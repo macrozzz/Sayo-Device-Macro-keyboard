@@ -43,9 +43,14 @@ Link:  [Youtube playlist](https://www.youtube.com/watch?v=Y-PFuFkAugc&list=PLYki
 
 Link:  [ali express](https://s.click.aliexpress.com/e/_DE7c8gv)
 
-## Channel name: **Macro Keyboardz**
+## Channel name: [**Macro Keyboardz**](https://www.youtube.com/@MacroKeyboardz)
 
-I will soon be programming some templates and share the file so you can preinstall it
+## Star this repository
+
+If you want premade templates that you can just inport, don't forget to give it a star ⭐️. for me to know you guys want it
+
+> ✨✨✨✨✨
+
 
 ## Keys assigning is not the same in windows and mac. For eg.
 
@@ -58,9 +63,7 @@ I will soon be programming some templates and share the file so you can preinsta
 |Cut         	 |`Command + x`					 |`Ctrl + x`				   |
 
 
+## Programming a specific keyboard shortcut
 
-## Star this repository
+Open the issue with as much details as you can, including name of the software for eg. capcut, keyboard shortcut for eg. Command + b, action: split
 
-If this page helped you in any way, don't forget to give it a star ⭐️.
-
-> ✨✨✨✨✨
